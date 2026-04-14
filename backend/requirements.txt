@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+supabase
+groq
+xgboost
+networkx
+pandas
+python-dotenv
